@@ -8,9 +8,6 @@ import math
 import pydirectinput as pdi
 import argparse
 import sys
-import os
-
-print(os.getcwd())
 
 bombkey = 'space' # Bomb keybind
 sightkey = 'f7'  # Key for Bomb Sight
