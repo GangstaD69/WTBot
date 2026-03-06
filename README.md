@@ -2,7 +2,8 @@
 War thunder base bombing bot written with python  
 - Completely external
 - Open source
-- Pretty shitty  
+- Pretty shitty
+
 It's not malware, I just can't justify spending hundreds of hours to fly cool pixel planes
 
 ## Required modules:
